@@ -6,7 +6,7 @@
         <form method="post" action="<?= base_url('home/reservasi') ?>">
             <div class="form-row">
                 <div class="form-group col-md-6">
-                    <label for="nama_customer">Nama Lengkap</label>
+                    <label for="nama_customer">Nama LengkaP</label>
                     <input type="text" onkeyup="this.value = this.value.toUpperCase()" class=" form-control" id="nama_customer" name="nama_customer" placeholder="Nama Lengkap">
                 </div>
                 <div class="form-group col-md-3">
